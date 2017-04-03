@@ -1,2 +1,2 @@
-# inno-setup-ide
-IDE Installer (JDK, Eclipse, Tomcat, Ant, Maven, Git, Plugins included) using Inno Setup
+# inno-setup-ide4java
+IDE Installer (JDK, Eclipse, Tomcat, Plugins included) using Inno Setup
